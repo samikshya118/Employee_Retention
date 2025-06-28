@@ -1,13 +1,13 @@
-#🧑‍💼 Employee Retention Prediction
+# 🧑‍💼 Employee Retention Prediction
 This project focuses on predicting whether an employee will leave an organization based on historical HR data. By identifying key factors influencing attrition, companies can make informed decisions to improve retention and employee satisfaction.
 
-##📌 Project Objectives
+## 📌 Project Objectives
 
 - Predict employee retention (leave/stay) using a classification approach.
 -  Analyze patterns related to satisfaction, workload, salary, and tenure.
 -  Visualize department-wise and salary-level trends in employee turnover.
 
-##📊 Dataset Overview
+## 📊 Dataset Overview
 The dataset includes the following features:
 
 Feature	Description
