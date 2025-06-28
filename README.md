@@ -33,7 +33,7 @@ salary   :   Salary level (low/medium/high)
 left	:   Target variable (1 = left, 0 = stayed)
 
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Language: Python
 
