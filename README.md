@@ -36,8 +36,13 @@ left	:   Target variable (1 = left, 0 = stayed)
 ##⚙️ Technologies Used
 
 Language: Python
+
 Libraries:
+
 Data: pandas, numpy
+
 Visualization: matplotlib, seaborn
+
 Modeling: scikit-learn
+
 Platform: Google Colab (Jupyter notebook)
